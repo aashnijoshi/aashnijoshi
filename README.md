@@ -1,7 +1,7 @@
-Greetings, fellow profile-viewer!
+Greetings! 
 
-I, Aashni Joshi, am currently a research intern at the Indian Institute of Technology - Bombay. My research relates to Modelling of Planetary Motion, which I plan to do using python. This account is  a collection of python programs I coded in order to better understand python as a computing language as well as to learn how to successfully model the planets I was talking about on python. 
+I served as a research intern at the esteemed Indian Institute of Technology - Bombay, delving into the intricacies of Python-based Planetary Motion Modelling. Within this repository, you'll find an anthology of Python programs I've crafted to explore the language's computational capabilities. These programs span fundamental simulations, including projectile motion, collisions, culminating in my final project: a meticulously scaled 3D dynamic model portraying our Solar System.
 
-You can contact me @ aashnijoshi@gmail.com/ +91 9819877788
+For inquiries, please reach out: 📧 aashnijoshi@berkeley.edu / 📞 +1 (908) 307-5182
 
-Ciao!
+=)
