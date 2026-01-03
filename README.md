@@ -1,7 +1,85 @@
-Welcome 👋
+# hey, i'm aashni 👋
 
-Hello! I'm Aashni Joshi, an undergraduate student at UC Berkeley, majoring in Astrophysics and Data Science. Currently, I'm interning at Hyperspell, where my work involves growth, GTM, and Developer Advocacy. I've worked at People+ai in the past where I worked on creating innovative AI use cases, product management, and designing user journeys.
+cs + astrophysics @ uc berkeley  
+building at the intersection of ai, devtools, and human systems
 
-For inquiries: 📧 aashnijoshi@berkeley.edu / 📞 +1 (908) 307-5182
+---
 
-=)
+## what i'm working on
+
+**axion**  
+ai copilot for developer relations  
+→ automates technical content  
+→ tracks business impact  
+→ helps solo devrel + small teams scale without losing their voice  
+
+**hyperspell**  
+early-stage ai infrastructure startup  
+head of developer relations / growth  
+→ agent memory, live context, rag pipelines  
+→ working directly with early customers + founders  
+
+**research & applied work**
+- nasa ames — in-space assembly & manufacturing feasibility
+- applied ml, data pipelines, and product experiments
+- lots of shipping, lots of iteration
+
+---
+
+## things i care about
+
+- building tools people actually use  
+- clear thinking over noise  
+- systems > motivation  
+- technical accuracy + human tone  
+- shipping early, learning fast
+
+---
+
+## tech i use
+
+**languages**
+- python
+- javascript / typescript
+
+**frameworks & tools**
+- react
+- flask
+- fastapi
+- postgres
+- vector databases
+- llms + rag systems
+
+**other**
+- product strategy
+- devrel & community
+- early-stage growth
+- technical writing that doesn’t sound like ai
+
+---
+
+## how i work
+
+- i like small, shippable pieces  
+- i think in systems and feedback loops  
+- i care a lot about clarity — in code, writing, and products  
+- i learn by building in public  
+
+---
+
+## currently learning
+
+- better agent architectures  
+- evaluation for llm systems  
+- product sense for devtools  
+- how humans actually form habits (and break them)
+
+---
+
+## let’s connect
+
+- if you're building devtools
+- if you're early-stage and need hands-on help
+- if you like thoughtful, slightly chaotic builders
+
+feel free to reach out or open an issue 👋
