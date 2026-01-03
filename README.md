@@ -40,21 +40,18 @@ head of developer relations / growth
 
 **languages**
 - python
-- javascript / typescript
+- java
 
 **frameworks & tools**
 - react
 - flask
-- fastapi
-- postgres
-- vector databases
 - llms + rag systems
 
 **other**
 - product strategy
 - devrel & community
 - early-stage growth
-- technical writing that doesn’t sound like ai
+- technical writing 
 
 ---
 
@@ -72,11 +69,11 @@ head of developer relations / growth
 - better agent architectures  
 - evaluation for llm systems  
 - product sense for devtools  
-- how humans actually form habits (and break them)
+- how humans form habits (and break them)
 
 ---
 
-## let’s connect
+## connect
 
 - if you're building devtools
 - if you're early-stage and need hands-on help
