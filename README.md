@@ -1,6 +1,6 @@
 # hey, i'm Aashni ⚡️
 
-cs + astrophysics @ uc berkeley  
+data science + astrophysics @ uc berkeley  
 building at the intersection of ai, devtools, and human systems
 
 ---
