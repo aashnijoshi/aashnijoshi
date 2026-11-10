@@ -1,4 +1,4 @@
-##Hey, I'm Aashni! ⚡️
+**Hey, I'm Aashni! ⚡️**
 
 I'm a senior at UC Berkeley studying Data Science and Astrophysics.
 
