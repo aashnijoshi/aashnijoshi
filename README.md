@@ -1,82 +1,66 @@
-# hey, i'm Aashni ⚡️
+**Hey, I'm Aashni! ⚡️**
 
-data science + astrophysics @ uc berkeley  
-building at the intersection of ai, devtools, and human systems
+I'm a senior at UC Berkeley studying Data Science and Astrophysics.
 
----
-
-## what i'm working on
-
-**axion**  
-ai copilot for developer relations  
-→ automates technical content  
-→ tracks business impact  
-→ helps solo devrel + small teams scale without losing their voice  
-
-**hyperspell**  
-early-stage ai infrastructure startup  
-head of developer relations / growth  
-→ agent memory, live context, rag pipelines  
-→ working directly with early customers + founders  
-
-**research & applied work**
-- nasa ames — in-space assembly & manufacturing feasibility
-- applied ml, data pipelines, and product experiments
-- lots of shipping, lots of iteration
+I spend most of my time messing around with AI agents, distributed systems, and developer tools. Also a big space nerd, which explains the astrophysics degree :)
 
 ---
 
-## things i care about
+**What I've been up to**
 
-- building tools people actually use  
-- clear thinking over noise  
-- systems > motivation  
-- technical accuracy + human tone  
-- shipping early, learning fast
+🛰️ **Sophia Space × NewSpace\@Berkeley**
 
----
+Currently co-leading a project where we're trying to get an AI agent to set up NVIDIA Jetson devices and run GPU workloads in Kubernetes.
 
-## tech i use
+A lot of figuring out what actually needs an LLM, what regular Python can handle just fine, and what happens when things break halfway through.
 
-**languages**
-- python
-- java
+🍎 **Apple**
 
-**frameworks & tools**
-- react
-- flask
-- llms + rag systems
+Spent this past summer building an AI agent for engineers working with Airflow, Spark, and Ray. Also went down a pretty deep rabbit hole benchmarking distributed ML workloads.
 
-**other**
-- product strategy
-- devrel & community
-- early-stage growth
-- technical writing 
+Learned a lot about infrastructure, evaluations, and all the little things that matter when people actually depend on something you've built.
 
----
+🧠 **Hyperspell (YC F25)**
 
-## how i work
+Before that, I was a founding data engineer at Hyperspell, working on data pipelines, integrations, and tools that help AI agents access context from different apps.
 
-- i like small, shippable pieces  
-- i think in systems and feedback loops  
-- i care a lot about clarity — in code, writing, and products  
-- i learn by building in public  
+Lots of APIs, webhooks, MCP, and figuring things out as we went. Really enjoyed being on a tiny team where I got to touch pretty much everything.
+
+🔬 **Other rabbit holes**
+
+I've also been experimenting with LLM inference using vLLM and NVIDIA A100s, and previously worked with NASA Ames on the feasibility of in-space assembly and manufacturing.
+
+Apparently I have a thing for expensive hardware.
 
 ---
 
-## currently learning
+**Things I'm curious about**
 
-- better agent architectures  
-- evaluation for llm systems  
-- product sense for devtools  
-- how humans form habits (and break them)
+- Making AI agents more reliable (and figuring out when you don't need one)
+- Distributed systems and what happens under the hood
+- ML inference, GPU performance, and all the weird bottlenecks
+- Developer tools, especially the ones you don't realize you need until you try them
+- Startups, product decisions, and how small teams build really good things
+- Space! Always space.
 
 ---
 
-## connect
+**Stuff I work with**
 
-- if you're building devtools
-- if you're early-stage and need hands-on help
-- if you like thoughtful, slightly chaotic builders
+Python, SQL, Spark, Ray, Kubernetes, Docker, AWS, MCP, LangGraph, vLLM, and whatever else a project ends up requiring.
 
-feel free to reach out or open an issue 👋
+---
+
+**A little about how I work**
+
+I like getting a basic version working before making it complicated. I ask a lot of questions, sometimes get a little too invested in debugging something, and enjoy working with people who are excited about what they're building.
+
+Also a big fan of experiments, good documentation, and deleting code that probably didn't need to exist in the first place.
+
+---
+
+**Say hi! 👋**
+
+Always happy to chat about AI, infrastructure, space, startups, or whatever you're working on.
+
+And if you're building something interesting, I'd love to hear about it :)
