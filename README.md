@@ -1,10 +1,9 @@
-**Hey, I'm Aashni! ⚡️**
+##Hey, I'm Aashni! ⚡️
 
 I'm a senior at UC Berkeley studying Data Science and Astrophysics.
 
 I spend most of my time messing around with AI agents, distributed systems, and developer tools. Also a big space nerd, which explains the astrophysics degree :)
 
----
 
 **What I've been up to**
 
@@ -32,8 +31,6 @@ I've also been experimenting with LLM inference using vLLM and NVIDIA A100s, and
 
 Apparently I have a thing for expensive hardware.
 
----
-
 **Things I'm curious about**
 
 - Making AI agents more reliable (and figuring out when you don't need one)
@@ -43,13 +40,10 @@ Apparently I have a thing for expensive hardware.
 - Startups, product decisions, and how small teams build really good things
 - Space! Always space.
 
----
 
 **Stuff I work with**
 
 Python, SQL, Spark, Ray, Kubernetes, Docker, AWS, MCP, LangGraph, vLLM, and whatever else a project ends up requiring.
-
----
 
 **A little about how I work**
 
